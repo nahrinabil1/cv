@@ -1,0 +1,59 @@
+.page{
+	width:1000px;
+	font-size: 15px;
+	font-family:italic;
+	font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+.coorPhoto{
+	height:256px;
+}
+
+.photo{
+	float:right;
+}
+
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+.SEC-GAUCHE{
+	
+	float: left;
+	font-weight: bold;
+	font-size : 20px;
+}
+
+.SEC-DROITE{
+	margin-left: 125px;
+	margin-top: 37px;
+}
+
+.contenu{
+	margin-left: 50px;
+	font-weight: normal;
+		
+}
+
+ p{
+	margin-bottom: 40px;
+}
+
+
+strong{
+	font-size:25px;
+}
+
+section
+{
+    border: 1px solid blue;
+}
+
+h2{
+	font-size: 28px;
+	color: #8a128e;
+	text-transform: uppercase;
+	border-bottom: 3px solid #8a128e;
+}
